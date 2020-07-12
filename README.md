@@ -1,2 +1,2 @@
-# ajaydeepak7.github.io
+# http://ajaydeepak7.github.io
 assignment
